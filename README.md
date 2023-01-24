@@ -12,6 +12,14 @@ I studied programming many many years ago and qualified with a BTech in Informat
 - 📫 How to reach me: https://www.linkedin.com/in/chandredewet/
 - ⚡ Fun fact: I love art, travel, cultures, writing but my first love is the detective work I do in my sparetime uncovering history in South Africa.
 
+<h3 align="left">Languages and Tools:</h3>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandredewet)](https://github.com/chandredewet/github-readme-stats)
+
+![Chandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandredewet&show_icons=true&theme=transparent)
+
+
+
 <!--
 **chandredewet/chandredewet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,3 +34,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
