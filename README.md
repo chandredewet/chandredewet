@@ -2,21 +2,21 @@
 
 ### Hi there 👋
 
-I studied programming many many years ago and qualified with a BTech in Information Technology, but my career took a turn after, being more in Tech Support/Administration and Documentation, as well other paths in Education, Admin and Community Work. After taking a break, in 2020 a friend invited me to volunteer for the amazing organization [CodeYourFuture.io](https://codeyourfuture.io/) teaching some of the modules in the web development bootcamp. This ignited the spark and I decided to do the course myself and here I am about to enter the working world as a dev 20 years after graduating. Nothing one learns is wasted and I am excited to see how all that I have learnt comes together with all my past experiences and impacts my future teams, projects and dreams.
+I am a creative developer with a heart for heritage. I am qualified but and have 2 years corporate dev experience, but outside that 10 years general IT, Education, and History Research experience. In 2020 I volunteered teaching code for the amazing organization [CodeYourFuture.io](https://codeyourfuture.io/) I decided to do the refresher myself and did the bootcamp in 2023, some of the projects below are from my course. In my formal work experience, so no evidence on Github I was a full stack developer using (React, Typescript, C# and SQL). Outside of work the projects I can display are:
 
-- 🔭 I’m currently working on finishing my 9 Month Software Development BootCamp. About to embark on a Final Project for External Client.
-- 🌱 I’m currently learning SQL and AWS Cloud.
+2026 -  Trekgeest Genealogy - a spreadsheet sorter application for my history research (web links on repo)
+2023 -  Loadsharing  -  calender for organizing loadshedding schedules form the API
+2023 -  Cape Music Academy (collaboration with another dev) 
+2023 -  Edufocus, I did the about page (web links on repo)
+
+- 🔭 I’m currently working on a spreadsheet sorter app while job hunting.
+- 🌱 I’m currently learning or hoping to learn and add ai tools to my spreadsheet application
 - 👯 I’m looking to collaborate on data visualisation projects for South African heritage projects
-- 🤔 I’m looking for help with getting from a noob developer to being established.
-- 💬 Ask me about javascript, html and css, ITIL concepts.
+- 🤔 I’m looking for help to establish my SQL and solid coding skills
+- 💬 Ask me about javascript, html, css, react, typescript, sql and C# and ITIL concepts.
 - 📫 How to reach me: https://www.linkedin.com/in/chandredewet/
 - ⚡ Fun fact: I love art, travel, cultures, writing but my first love is the detective work I do in my sparetime uncovering history in South Africa.
 
-<h3 align="left">Languages and Tools:</h3>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandredewet)](https://github.com/chandredewet/github-readme-stats)
-
-![Chandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandredewet&show_icons=true&theme=transparent)
 
 
 
