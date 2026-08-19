@@ -3,11 +3,10 @@
 ### Hi there 👋
 
 I am a creative developer with a heart for heritage. I am qualified but and have 2 years corporate dev experience, but outside that 10 years general IT, Education, and History Research experience. In 2020 I volunteered teaching code for the amazing organization [CodeYourFuture.io](https://codeyourfuture.io/) I decided to do the refresher myself and did the bootcamp in 2023, some of the projects below are from my course. In my formal work experience, so no evidence on Github I was a full stack developer using (React, Typescript, C# and SQL). Outside of work the projects I can display are:
-
-2026 -  Trekgeest Genealogy - a spreadsheet sorter application for my history research (web links on repo)
-2023 -  Loadsharing  -  calender for organizing loadshedding schedules form the API
-2023 -  Cape Music Academy (collaboration with another dev) 
-2023 -  Edufocus, I did the about page (web links on repo)
+ - 2026 -  Trekgeest Genealogy - a spreadsheet sorter application for my history research (web links on repo)
+ - 2023 -  Loadsharing  -  calender for organizing loadshedding schedules form the API
+ - 2023 -  Cape Music Academy (collaboration with another dev) 
+ - 2023 -  Edufocus, I did the about page (web links on repo)
 
 - 🔭 I’m currently working on a spreadsheet sorter app while job hunting.
 - 🌱 I’m currently learning or hoping to learn and add ai tools to my spreadsheet application
